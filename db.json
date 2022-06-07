@@ -16,12 +16,12 @@
   "carOut": [
     {
       "id": 1,
-      "plate": "78924"
-      "note": "none
+      "plate": "78924",
+      "note": "none"
     }
   ],
   "admin": {
     "name": "datnt",
-    "age": "23"
+    "age": 23
   }
 }
